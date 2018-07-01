@@ -3,9 +3,13 @@
 ## React and Spring
 
 ### Build & Run
-`./mvnw spring-boot:run`
+```
+$ mvn spring-boot:run
 
-`http://localhost:8080/api`
+web: http://localhost:8080/
+api: http://localhost:8080/api
+```
+
 
 ### Requirements
 - Java 8
