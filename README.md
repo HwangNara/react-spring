@@ -4,7 +4,8 @@
 
 ### Build & Run
 ```
-$ mvn spring-boot:run
+$ ./mvnw spring-boot:run (Mac or Linux)
+$ mvnw.cmd spring-boot:run (Windows)
 
 web: http://localhost:8080/
 api: http://localhost:8080/api
